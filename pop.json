@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nome_musica": "Shape of You",
+    "autores": ["Ed Sheeran", "Steve Mac", "Johnny McDaid"],
+    "interpretes": ["Ed Sheeran"]
+  },
+  {
+    "id": 2,
+    "nome_musica": "Uptown Funk",
+    "autores": ["Mark Ronson", "Jeff Bhasker", "Bruno Mars"],
+    "interpretes": ["Mark Ronson ft. Bruno Mars"]
+  },
+  {
+    "id": 3,
+    "nome_musica": "Someone Like You",
+    "autores": ["Adele", "Dan Wilson"],
+    "interpretes": ["Adele"]
+  },
+  {
+    "id": 4,
+    "nome_musica": "Can't Stop the Feeling!",
+    "autores": ["Justin Timberlake", "Max Martin", "Shellback"],
+    "interpretes": ["Justin Timberlake"]
+  },
+  {
+    "id": 5,
+    "nome_musica": "Roar",
+    "autores": ["Katy Perry", "Lukasz Gottwald", "Max Martin"],
+    "interpretes": ["Katy Perry"]
+  },
+  {
+    "id": 6,
+    "nome_musica": "Happy",
+    "autores": ["Pharrell Williams"],
+    "interpretes": ["Pharrell Williams"]
+  },
+  {
+    "id": 7,
+    "nome_musica": "Blank Space",
+    "autores": ["Taylor Swift", "Max Martin", "Shellback"],
+    "interpretes": ["Taylor Swift"]
+  },
+  {
+    "id": 8,
+    "nome_musica": "Sorry",
+    "autores": ["Justin Bieber", "Michael Tucker", "Julia Michaels"],
+    "interpretes": ["Justin Bieber"]
+  },
+  {
+    "id": 9,
+    "nome_musica": "Shake It Off",
+    "autores": ["Taylor Swift", "Max Martin", "Shellback"],
+    "interpretes": ["Taylor Swift"]
+  },
+  {
+    "id": 10,
+    "nome_musica": "Havana",
+    "autores": ["Camila Cabello", "Starrah", "Ali Tamposi"],
+    "interpretes": ["Camila Cabello"]
+  }
+]

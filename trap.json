@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nome_musica": "Novo Balanço",
+    "autores": ["Veigh"],
+    "interpretes": ["Veigh"]
+  },
+  {
+    "id": 2,
+    "nome_musica": "Me Sinto Oruam (part. Leviano)",
+    "autores": ["Ryu, the Runner", "Leviano"],
+    "interpretes": ["Ryu, the Runner"]
+  },
+  {
+    "id": 3,
+    "nome_musica": "Conexões de Máfia (feat. Rich The Kid)",
+    "autores": ["Matuê", "Rich The Kid"],
+    "interpretes": ["Matuê"]
+  },
+  {
+    "id": 4,
+    "nome_musica": "Melhor Só (part. Baco Exu do Blues)",
+    "autores": ["KayBlack", "Baco Exu do Blues"],
+    "interpretes": ["KayBlack"]
+  },
+  {
+    "id": 5,
+    "nome_musica": "Cartão Black (part. KayBlack)",
+    "autores": ["MC Caverinha", "KayBlack"],
+    "interpretes": ["MC Caverinha"]
+  },
+  {
+    "id": 6,
+    "nome_musica": "Se Acaba (part. MC Ryan SP, MC Don Juan e Vulgo FK)",
+    "autores": ["Xamã", "MC Ryan SP", "MC Don Juan", "Vulgo FK"],
+    "interpretes": ["Xamã"]
+  },
+  {
+    "id": 7,
+    "nome_musica": "Larga Essa Vida",
+    "autores": ["Mc Luanna"],
+    "interpretes": ["Mc Luanna"]
+  },
+  {
+    "id": 8,
+    "nome_musica": "Deus Perdoa",
+    "autores": ["Filipe Ret"],
+    "interpretes": ["Filipe Ret"]
+  }
+]

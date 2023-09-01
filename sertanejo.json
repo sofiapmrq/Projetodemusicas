@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nome_musica": "Evidências",
+    "autores": ["José Augusto", "Paulo Sérgio Valle"],
+    "interpretes": ["Chitãozinho & Xororó"]
+  },
+  {
+    "id": 2,
+    "nome_musica": "Choram as Rosas",
+    "autores": ["Roberto Carlos"],
+    "interpretes": ["Bruno & Marrone"]
+  },
+  {
+    "id": 3,
+    "nome_musica": "Fogão de Lenha",
+    "autores": ["Xororó", "M. Rangel"],
+    "interpretes": ["Chitãozinho & Xororó"]
+  },
+  {
+    "id": 4,
+    "nome_musica": "É o Amor",
+    "autores": ["Zezé Di Camargo"],
+    "interpretes": ["Zezé Di Camargo & Luciano"]
+  },
+  {
+    "id": 5,
+    "nome_musica": "Boate Azul",
+    "autores": ["Benedito Seviero", "Tomaz"],
+    "interpretes": ["João Mineiro & Marciano"]
+  },
+  {
+    "id": 6,
+    "nome_musica": "Página de Amigos",
+    "autores": ["Carlos Colla", "Elias Muniz"],
+    "interpretes": ["Chitãozinho & Xororó"]
+  },
+  {
+    "id": 7,
+    "nome_musica": "Deixaria Tudo",
+    "autores": ["Michael Sullivan", "Paulo Massadas"],
+    "interpretes": ["Leandro & Leonardo"]
+  },
+  {
+    "id": 8,
+    "nome_musica": "Ainda Ontem Chorei de Saudade",
+    "autores": ["Moacyr Franco"],
+    "interpretes": ["João Mineiro & Marciano"]
+  },
+  {
+    "id": 9,
+    "nome_musica": "Telefone Mudo",
+    "autores": ["Franco", "Peão Carreiro"],
+    "interpretes": ["Trio Parada Dura"]
+  },
+  {
+    "id": 10,
+    "nome_musica": "No Dia em que Saí de Casa",
+    "autores": ["Zezé Di Camargo"],
+    "interpretes": ["Zezé Di Camargo & Luciano"]
+  }
+]
